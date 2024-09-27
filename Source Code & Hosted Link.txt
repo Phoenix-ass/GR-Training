@@ -1,0 +1,182 @@
+Create Beautiful Home Page using Plain HTML, CSS, JS, and Bootstrap if needed:
+
+Hosted Link : https://phoenix-ass.github.io/Home/
+Source Code Link : https://github.com/Phoenix-ass/Home/blob/main/index.html
+
+
+
+Beautiful Image Slide Show Animation using HTML, CSS, JS, and Bootstrap if needed:
+
+Hosted Link : https://phoenix-ass.github.io/Slideshow/
+Source Code Link : https://github.com/Phoenix-ass/Slideshow/blob/main/index.html
+
+
+Create the Beautiful About Page and FAQ Page:
+
+Hosted Link : FAQ - https://phoenix-ass.github.io/FAQ/                                                 About Page - https://phoenix-ass.github.io/About/
+Source Code Link : FAQ - https://github.com/Phoenix-ass/FAQ/blob/main/index.html     About Page - https://github.com/Phoenix-ass/About/blob/main/index.html
+
+
+Subscription Page:
+
+Hosted Link : Subscription - https://phoenix-ass.github.io/Subscription/                                                   
+                     Terms & Condition Page - https://phoenix-ass.github.io/Terms-Condition/
+Source Code Link : Subscription - https://github.com/Phoenix-ass/Subscription/blob/main/index.html       
+                              Terms & Condition Page - https://github.com/Phoenix-ass/Terms-Condition/blob/main/index.html
+
+
+Blog/Article Page:
+
+Hosted Link : https://phoenix-ass.github.io/Blog-Article/
+Source Code Link : https://github.com/Phoenix-ass/Blog-Article/blob/main/index.html
+
+
+Team Page:
+
+Hosted Link : https://phoenix-ass.github.io/Team-Page/
+Source Code Link : https://github.com/Phoenix-ass/Team-Page/blob/main/index.html
+
+
+Learner Profile:
+
+Hosted Link : https://phoenix-ass.github.io/Learner-Page/
+Source Code Link : https://github.com/Phoenix-ass/Learner-Page
+
+
+Courses Page:
+
+Hosted Link : https://phoenix-ass.github.io/Course-Page/
+Source Code Link : https://github.com/Phoenix-ass/Course-Page
+
+
+ Payment Page:
+
+Hosted Link : https://phoenix-ass.github.io/Payment/
+Source Code Link : https://github.com/Phoenix-ass/Payment 
+
+
+Subscription Receipt:
+
+Hosted Link : https://phoenix-ass.github.io/Subscription-Receipt/
+Source Code Link : https://github.com/Phoenix-ass/Subscription-Receipt
+
+
+Courses Option in Learner Page:
+
+Hosted Link : https://phoenix-ass.github.io/Course-Option/
+Source Code Link : https://github.com/Phoenix-ass/Course-Option
+
+
+Watch Course Page:
+
+Hosted Link : https://phoenix-ass.github.io/Watch-Video/
+Source Code Link : https://github.com/Phoenix-ass/Watch-Video
+
+
+Awards and recognition page:
+
+Hosted Link : https://phoenix-ass.github.io/Award-Page/
+Source Code Link : https://github.com/Phoenix-ass/Award-Page
+
+
+Founder’s vision Page:
+
+Hosted Link : https://phoenix-ass.github.io/Founder-Vision-Page/
+Source Code Link : https://github.com/Phoenix-ass/Founder-Vision-Page
+
+
+About Chairman & CEO page:
+
+Hosted Link : https://phoenix-ass.github.io/CEO-/
+Source Code Link : https://github.com/Phoenix-ass/CEO-
+
+
+About Executive Leadership Team Page:
+
+Hosted Link : https://phoenix-ass.github.io/Executive-Team-Page/
+Source Code Link : https://github.com/Phoenix-ass/Executive-Team-Page
+
+
+learners count, courses count section:
+
+Hosted Link : https://phoenix-ass.github.io/Counters-Page/
+Source Code Link : https://github.com/Phoenix-ass/Counters-Page
+
+ 
+Recent events & activities page:
+
+Hosted Link : https://phoenix-ass.github.io/Event-Page/
+Source Code Link : https://github.com/Phoenix-ass/Event-Page
+
+ 
+Custom pop up images/slideshow:
+
+Hosted Link : https://phoenix-ass.github.io/Custom-Popup/
+Source Code Link : https://github.com/Phoenix-ass/Custom-Popup
+
+ 
+Learners testimonial page:
+
+Hosted Link : https://phoenix-ass.github.io/Testimonal-Page/
+Source Code Link : https://github.com/Phoenix-ass/Testimonal-Page
+
+
+Careers page:
+
+Hosted Link : https://phoenix-ass.github.io/Career-Page/
+Source Code Link : https://github.com/Phoenix-ass/Career-Page
+
+
+Newsroom page:
+
+Hosted Link : https://phoenix-ass.github.io/Newsroom-Page/
+Source Code Link : https://github.com/Phoenix-ass/Newsroom-Page  (Note: API Key was used Don't know the issues with the key so live news was not able to shown. 
+                                                                                                          Once I fix the issue I'll give the live feed news. Check the source code for further details.)
+
+ 
+Company Gallery page:
+
+Hosted Link : https://phoenix-ass.github.io/Gallery-Page/
+Source Code Link : https://github.com/Phoenix-ass/Gallery-Page
+
+  
+Flash news page:
+
+Hosted Link : https://phoenix-ass.github.io/Flashnews-Page/
+Source Code Link : https://github.com/Phoenix-ass/Flashnews-Page
+
+
+Notification Page:
+
+Hosted Link : https://phoenix-ass.github.io/Notification-Page/
+Source Code Link : https://github.com/Phoenix-ass/Notification-Page
+
+Quiz Page:
+
+Hosted Link : https://phoenix-ass.github.io/Quiz-Page/
+Source Code Link: https://github.com/Phoenix-ass/Quiz-Page
+
+User Profile: (Different from Learners Profile)
+
+Hosted Link: https://phoenix-ass.github.io/User-Profile/
+Source Code Link: https://github.com/Phoenix-ass/User-Profile (Note: Video used as a background but not worked I'll fix and let you know)
+
+Leaderboard Page:
+
+Hosted Link : https://phoenix-ass.github.io/Leaderboard-Page/
+Source Code Link : https://github.com/Phoenix-ass/Leaderboard-Page
+
+Certificate Page:
+
+Hosted Link : https://phoenix-ass.github.io/Certificate-Page/
+Source Code Link : https://github.com/Phoenix-ass/Certificate-Page
+
+Course Slider:
+
+Hosted Link : https://phoenix-ass.github.io/Course-Slider/
+Source Code Link: https://github.com/Phoenix-ass/Course-Slider
+
+Learner Working Company:
+
+Hosted Link : https://phoenix-ass.github.io/Learners-Company/
+Source Code Link : https://github.com/Phoenix-ass/Learners-Company
